@@ -1,0 +1,6 @@
+Cách cài đặt MyBlog
+1.cd MyBlog
+2.npm install
+3.npn install bootstrap
+4.npm in npm install vue-router
+5.npm run dev
